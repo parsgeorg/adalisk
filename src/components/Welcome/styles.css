@@ -1,0 +1,10 @@
+#welcomeText {
+    font-weight: bold;
+    font-size: 30px;
+    color: red;
+    background: rgb(136, 209, 238); /* Цвет фона */
+    box-shadow: 0  0 10px rgba(0,0,0,0.5); /* Параметры тени */
+    padding: 10px;
+    text-align: center;
+    border-radius: 70%;
+}
